@@ -23,8 +23,6 @@
 
 #### Git & Github Desktop
 
-#### MS Azure
-
 #### OpenCV
 
 ## Team member
